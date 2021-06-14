@@ -28,5 +28,5 @@
     DATABASE_PASSWORD = ""
     ```
 
-4. Run 'musinsa_main.py' in your project 
+4. Run 'musinsa_main.py' in your project .
 
