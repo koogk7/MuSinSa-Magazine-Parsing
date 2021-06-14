@@ -12,7 +12,7 @@
 - target url : https://www.musinsa.com/index.php?m=magazine
 
 ### How to use
-1. First, you must start virtual environment. Typing below command in your project terminal
+1. First, you must start virtual environment. Typing below command in your project terminal.
     ```shell
     source venv/bin/activate
     ```
